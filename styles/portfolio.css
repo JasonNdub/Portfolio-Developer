@@ -36,7 +36,25 @@ nav li{
 }
 /* banner styles*/
 .banner{
-    display: flex;
+    display: flex;   
     align-items: center;
     margin: 0 200px;
+}
+banner img{
+    align-items: center;
+}
+.banner-title{
+    font-weight: 700;
+    font-size: 65px;
+}
+.banner-sub-title{
+    font-weight: 600;
+    font-size: 45px;
+    margin-bottom: 20px;
+}
+.banner-description{
+    color: #757575;
+    font-size: 18px;
+    margin-bottom: 30px;
+
 }
